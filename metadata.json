@@ -1,0 +1,6 @@
+{
+  "name": "World Cup Predictor & Analytics",
+  "description": "Real-time World Cup match winner predictor, dynamic user leaderboard, and AI-powered tactical analytics feed explaining match details and tactical turning points.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
